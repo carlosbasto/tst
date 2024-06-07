@@ -5653,7 +5653,6 @@ She bakes a pie for the family dinner.;She doth concoct a tart for the kin's rep
 The cat curls up by the fire.;The feline doth nestle by the blaze.
 He writes a poem about the changing seasons.;He doth compose a verse concerning the cycles.
 She paints a mural on the school wall.;She doth adorn the academy's barrier with a fresco.
-The river sparkles in the sunlight.;The stream doth glitter in the daylight.
 He repairs the old barn door.;He doth mend the antique stable portal.
 The children gather around the storyteller.;The younglings doth cluster about the narrator.
 She bakes bread for the market.;She doth concoct loaves for the bazaar.
@@ -5747,11 +5746,9 @@ The wind howls through the empty streets.;The breeze doth wail through the deser
 She embroiders a landscape on a quilt.;She doth stitch a vista upon a coverlet.
 The river sparkles in the midday sun.;The stream doth glitter in the noonday light.
 He writes a song about a lost friend.;He doth compose a lay concerning a departed companion.
-The children play hopscotch on the sidewalk.;The younglings doth engage in a game on the pavement.
 She bakes a loaf of rosemary bread.;She doth concoct a loaf of herbed dough.
 The cat purrs as it naps.;The feline doth hum in its slumber.
 He fixes the broken wagon wheel.;He doth mend the fractured cart wheel.
-The wind rustles the pages of the book.;The breeze doth whisper through the tome.
 She brews a pot of berry tea.;She doth concoct a cauldron of fruit tisane.
 The river flows through the meadow.;The stream doth course through the lea.
 He writes a letter to his old mentor.;He doth pen an epistle to his former guide.
@@ -5759,7 +5756,6 @@ The children play in the autumn leaves.;The younglings doth frolic in the fall f
 She knits a pair of gloves.;She doth weave hand coverings.
 The cat purrs as it watches the fire.;The feline doth hum as it observes the blaze.
 He repairs the old bicycle.;He doth mend the antique velocipede.
-The wind howls through the narrow pass.;The breeze doth wail through the tight passage.
 She embroiders a rose on a handkerchief.;She doth stitch a bloom upon a cloth.
 The river sparkles in the moonlight.;The stream doth glitter beneath the lunar glow.
 He writes a novel about a forbidden romance.;He doth pen a tale of proscribed affection.
@@ -5778,7 +5774,6 @@ He repairs the broken fence post.;He doth mend the fractured barrier.
 The wind howls through the deserted streets.;The breeze doth wail through the empty avenues.
 She embroiders a vine on a pillowcase.;She doth stitch a tendril upon a cover.
 The river flows gently through the valley.;The stream doth course softly through the vale.
-He writes a play about a family reunion.;He doth compose a drama concerning a kin gathering.
 The children play with their dolls.;The younglings doth frolic with their playthings.
 She bakes a batch of blueberry muffins.;She doth concoct sweet breads.
 The cat watches the birds from the porch.;The feline doth observe the avians from the veranda.
@@ -5807,65 +5802,10 @@ The children play with their toy cars.;The younglings doth frolic with their min
 She knits a blanket for the baby.;She doth weave a coverlet for the infant.
 The cat purrs as it sits on the windowsill.;The feline doth hum as it perches on the casement.
 He repairs the old barn roof.;He doth mend the ancient stable top.
-The wind howls through the canyon.;The breeze doth wail through the gorge.
 She embroiders a scene of the ocean.;She doth stitch a vista of the sea.
 The river sparkles in the morning sun.;The stream doth glitter in the dawn light.
-He writes a letter to his childhood friend.;He doth pen an epistle to his lifelong companion.
 The children play with their new toys.;The younglings doth frolic with their fresh playthings.
 She bakes a loaf of apple bread.;She doth concoct a loaf of fruit dough.
-The cat watches the fish in the pond.;The feline doth observe the creatures in the mere.
 He fixes the broken handle on the door.;He doth mend the fractured grip.
-The wind rustles the pages of the book.;The breeze doth whisper through the tome.
 She brews a pot of chai tea.;She doth concoct a cauldron of spiced brew.
-The river winds around the bend.;The stream doth curve about the meander.
-He writes a letter of sympathy.;He doth pen a missive of condolence.
 The children build a fort in the backyard.;The younglings doth construct a stronghold in the yard.
-She knits a pair of booties.;She doth weave footwear for infants.
-The cat purrs as it is petted.;The feline doth hum as it is stroked.
-He repairs the old fishing boat.;He doth mend the ancient vessel.
-The wind howls through the empty streets.;The breeze doth wail through the deserted avenues.
-She embroiders a scene of the countryside.;She doth stitch a vista of the rural expanse.
-The river sparkles in the midday sun.;The stream doth glitter in the noonday light.
-He writes a song about a lost friend.;He doth compose a lay concerning a departed companion.
-The children play with their toy soldiers.;The younglings doth frolic with their playthings.
-She bakes a loaf of pumpkin bread.;She doth concoct a loaf of gourd dough.
-The cat watches the fish swim in the tank.;The feline doth observe the creatures in the aquarium.
-He fixes the broken gate.;He doth mend the fractured portal.
-The wind rustles the curtains.;The breeze doth whisper through the drapery.
-She brews a pot of apple cider.;She doth concoct a cauldron of spiced apple.
-The river winds through the canyon.;The stream doth meander through the gorge.
-He writes a letter of appreciation.;He doth pen a missive of gratitude.
-The children build a fort in the living room.;The younglings doth construct a stronghold in the parlor.
-She knits a pair of slippers.;She doth weave footwear.
-The cat purrs as it lies in the sun.;The feline doth hum as it basks in the light.
-He repairs the broken fence post.;He doth mend the fractured barrier.
-The wind howls through the deserted streets.;The breeze doth wail through the empty avenues.
-She embroiders a vine on a pillowcase.;She doth stitch a tendril upon a cover.
-The river flows gently through the valley.;The stream doth course softly through the vale.
-He writes a play about a family reunion.;He doth compose a drama concerning a kin gathering.
-The children play with their dolls.;The younglings doth frolic with their playthings.
-She bakes a batch of blueberry muffins.;She doth concoct sweet breads.
-The cat watches the birds from the porch.;The feline doth observe the avians from the veranda.
-He fixes the broken axle on the cart.;He doth mend the fractured axle.
-The wind rustles through the tall grass.;The breeze doth whisper through the sward.
-She brews a pot of jasmine tea.;She doth concoct a cauldron of jasmine tisane.
-The river sparkles in the twilight.;The stream doth glitter in the dusk.
-He writes a novel about a lost kingdom.;He doth pen a tale of a forgotten realm.
-The children play with their building blocks.;The younglings doth construct with their timber cubes.
-She knits a scarf for the winter.;She doth weave a muffler for the cold season.
-The cat purrs as it dreams.;The feline doth hum in its slumber.
-He repairs the broken windowpane.;He doth mend the fractured pane.
-The wind howls through the forest.;The breeze doth wail through the woodland.
-She embroiders a name on a blanket.;She doth stitch an appellation upon a coverlet.
-The river winds through the farmland.;The stream doth meander through the cropland.
-He writes a letter of farewell.;He doth pen a missive of parting.
-The children build a house of cards.;The younglings doth construct a structure of paper.
-She bakes a loaf of zucchini bread.;She doth concoct a loaf of squash dough.
-The cat watches the rain from the window.;The feline doth observe the downpour from the casement.
-He fixes the broken latch on the gate.;He doth mend the fractured fastener.
-The wind rustles the leaves in the trees.;The breeze doth whisper through the foliage.
-She brews a pot of lavender tea.;She doth concoct a cauldron of lavender tisane.
-The river flows steadily towards the ocean.;The stream doth course constantly towards the sea.
-He writes a song about a journey.;He doth compose a lay concerning a voyage.
-The children play with their toy cars.;The younglings doth frolic with their miniature chariots.
-She knits a blanket for the baby.;She doth weave a coverlet for the infant.
