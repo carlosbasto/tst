@@ -6009,11 +6009,8 @@ He is always late.;He is ever tardy.
 The stars are shining.;The stars shineth.
 She is a kind person.;She is a gentle soul.
 I need to speak with you.;I must confer with thee.
-The water is cold.;The water is chill.
 He is very brave.;He possesseth great courage.
 I am hungry.;I am famished.
-She is my sister.;She is mine sister.
-The sky is blue.;The sky is azure.
 I will follow you.;I shall follow thee.
 He is a good friend.;He is a loyal companion.
 The house is old.;The dwelling is aged.
@@ -6025,12 +6022,9 @@ I have a question.;I hath a query.
 They are my parents.;They art mine parents.
 The wind is strong.;The wind bloweth fierce.
 I miss you.;I yearn for thee.
-She is very happy.;She is most joyous.
-He is a famous artist.;He is a renowned artist.
 I need more time.;I require more time.
 The tree is tall.;The tree standeth tall.
 She is wearing a red dress.;She weareth a crimson gown.
-He is my brother.;He is mine brother.
 I have a headache.;I hath a pain in mine head.
 The baby is crying.;The babe doth wail.
 She is reading a story.;She readeth a tale.
@@ -6038,49 +6032,39 @@ I will try my best.;I shall strive with all mine might.
 The music is loud.;The music soundeth loud.
 He is a fast runner.;He runneth swiftly.
 I have no money.;I hath no coin.
-She is very beautiful.;She is most fair.
 The car is new.;The carriage is new.
 He is an excellent cook.;He is a masterful cook.
 I am feeling better.;I am mending well.
 The movie was interesting.;The play wast engaging.
 She is a wonderful singer.;She singeth wonderfully.
-He is my uncle.;He is mine uncle.
 I like this place.;I favor this place.
 The river is deep.;The river runneth deep.
-She is my mother.;She is mine mother.
 I am very excited.;I am most excited.
 The mountain is high.;The mountain riseth high.
 He is a skilled worker.;He is a masterful worker.
 I need to leave soon.;I must depart anon.
 The book is interesting.;The tome is intriguing.
 She is a kind-hearted person.;She is a gentle-hearted soul.
-He is a strong leader.;He is a mighty leader.
 I am learning English.;I am studying English.
-The road is narrow.;The path is narrow.
 She is my cousin.;She is mine cousin.
 I will do it myself.;I shall do it mine own self.
-The weather is bad.;The weather is foul.
 He is a famous writer.;He is a renowned scribe.
 I am going to sleep.;I am retiring to bed.
 She is very smart.;She possesseth great wit.
 The garden is beautiful.;The garden is comely.
 He is my neighbor.;He is mine neighbor.
 I am very busy.;I am much occupied.
-The water is clear.;The water is clear.
 She is my friend.;She is mine friend.
 I need to buy groceries.;I must purchase provisions.
 The park is peaceful.;The park is tranquil.
 He is a great speaker.;He is an eloquent orator.
 I am feeling sick.;I am feeling unwell.
-The sky is clear.;The sky is clear.
 She is very polite.;She is most courteous.
 He is a talented musician.;He is a gifted minstrel.
 I need to finish this.;I must complete this.
 The food is spicy.;The fare is piquant.
 She is very gentle.;She is most gentle.
 He is a clever man.;He is a shrewd man.
-I am very tired.;I am most weary.
-The room is empty.;The chamber is vacant.
 She is a loving mother.;She is a doting mother.
 He is a fast learner.;He learneth swiftly.
 I need to clean the house.;I must cleanse the house.
@@ -6105,7 +6089,6 @@ He is an honest man.;He is a truthful man.
 I need some advice.;I require counsel.
 The forest is dense.;The forest is thick.
 She is an excellent dancer.;She danceth excellently.
-He is very punctual.;He is most punctual.
 I need to write a letter.;I must pen a missive.
 The sunset is beautiful.;The sunset is comely.
 She is a quick learner.;She learneth swiftly.
@@ -6114,21 +6097,17 @@ I am feeling sleepy.;I am feeling drowsy.
 The festival is fun.;The fair is merry.
 She is very caring.;She is most nurturing.
 He is a wise old man.;He is a sagacious elder.
-I need to find a job.;I must seek employment.
 The mountains are majestic.;The mountains are grand.
 She is a fantastic cook.;She cooketh fantastically.
 He is my mentor.;He is mine tutor.
 I am very thirsty.;I am parched.
 The road is slippery.;The path is slick.
-She is very energetic.;She is full of vigor.
 He is a powerful leader.;He is a mighty leader.
 I need to study more.;I must study further.
 The room is spacious.;The chamber is ample.
-She is very patient.;She is most patient.
 He is a skilled craftsman.;He is a masterful artisan.
 I am very proud of you.;I am most proud of thee.
 The water is refreshing.;The water is invigorating.
-She is very supportive.;She is most supportive.
 He is a responsible person.;He is a dependable person.
 I need to pack my bags.;I must pack mine bags.
 The concert was amazing.;The performance was astonishing.
@@ -6146,7 +6125,6 @@ I need to organize my desk.;I must arrange mine desk.
 The air is fresh.;The air is crisp.
 She is very compassionate.;She is most compassionate.
 He is a talented writer.;He is a gifted scribe.
-I need to relax.;I must unwind.
 The project is challenging.;The task is arduous.
 She is very articulate.;She is most eloquent.
 He is a generous person.;He is a munificent soul.
@@ -6180,16 +6158,13 @@ She is very determined.;She is most resolute.
 He is a knowledgeable man.;He is a learned man.
 I need to exercise more.;I must exercise further.
 The cake is sweet.;The cake is sweet.
-She is very punctual.;She is ever timely.
 He is a dependable worker.;He is a reliable worker.
 I need to call my friend.;I must summon mine friend.
 The ocean is vast.;The sea is vast.
 She is very friendly.;She is most amiable.
 He is an experienced sailor.;He is a seasoned mariner.
-I need to send an email.;I must dispatch a missive.
 The flowers are blooming.;The blossoms art in bloom.
 She is very adventurous.;She is most adventurous.
-He is a loyal friend.;He is a steadfast companion.
 I need to find my glasses.;I must locate mine spectacles.
 The air is cool.;The air is brisk.
 She is very talented.;She possesseth great talent.
@@ -6208,7 +6183,6 @@ The house is quiet.;The house is silent.
 She is very responsible.;She is ever responsible.
 He is an excellent student.;He is a stellar pupil.
 I need to brush my teeth.;I must clean mine teeth.
-The river is wide.;The river is broad.
 She is very charming.;She is most charming.
 He is a dedicated teacher.;He is a devoted tutor.
 I need to lock the door.;I must secure the portal.
@@ -6218,10 +6192,8 @@ He is a kind man.;He is a benevolent man.
 I need to water the plants.;I must water the flora.
 The park is serene.;The park is serene.
 She is very affectionate.;She is most affectionate.
-He is a wise elder.;He is a sage elder.
 I need to charge my laptop.;I must charge mine device.
 The lake is calm.;The lake is placid.
-She is very talented.;She possesseth great talent.
 He is a gentle giant.;He is a gentle giant.
 I need to find my shoes.;I must find mine shoes.
 The forest is mysterious.;The forest is enigmatic.
@@ -6231,8 +6203,6 @@ I need to wash my car.;I must cleanse mine carriage.
 The garden is lush.;The garden is verdant.
 She is very articulate.;She is most articulate.
 He is a brave warrior.;He is a valiant warrior.
-I need to organize my files.;I must arrange mine documents.
-The air is crisp.;The air is crisp.
 She is very patient.;She is ever patient.
 He is a dedicated father.;He is a devoted father.
 I need to buy a gift.;I must purchase a gift.
@@ -6244,7 +6214,6 @@ The ocean is beautiful.;The sea is beautiful.
 She is very nurturing.;She is most nurturing.
 He is a thoughtful leader.;He is a considerate leader.
 I need to get ready.;I must prepare myself.
-The night is peaceful.;The night is tranquil.
 She is very kind-hearted.;She is most kind-hearted.
 He is a talented actor.;He is a gifted actor.
 I need to repair my bike.;I must fix mine bicycle.
@@ -6262,13 +6231,11 @@ He is a knowledgeable scholar.;He is a learned scholar.
 I need to fix the sink.;I must mend the sink.
 The air is humid.;The air is damp.
 She is very creative.;She is most creative.
-He is a loyal servant.;He is a faithful servant.
 I need to find a new job.;I must seek new employment.
 The wind is chilly.;The wind is biting.
 She is very talented.;She is exceedingly talented.
 He is a brave knight.;He is a gallant knight.
 I need to charge my tablet.;I must charge mine tablet.
-The road is bumpy.;The path is uneven.
 She is very observant.;She is exceedingly observant.
 He is a kind-hearted man.;He is a benevolent man.
 I need to call my doctor.;I must summon mine physician.
@@ -6278,7 +6245,6 @@ He is a brilliant scientist.;He is a brilliant scholar.
 I need to book a flight.;I must reserve passage.
 The river is shallow.;The river is shallow.
 She is very punctual.;She is perpetually punctual.
-He is a wise old man.;He is a sagacious elder.
 I need to clean my shoes.;I must polish mine shoes.
 The weather is unpredictable.;The weather is fickle.
 She is very articulate.;She is exceedingly articulate.
@@ -6286,7 +6252,6 @@ He is a dedicated employee.;He is a devoted worker.
 I need to fix the roof.;I must repair the roof.
 The beach is crowded.;The shore is bustling.
 She is very enthusiastic.;She is exceedingly enthusiastic.
-He is a talented musician.;He is a gifted minstrel.
 I need to find my wallet.;I must locate mine purse.
 The sun is setting.;The sun descendeth.
 She is very gentle.;She is exceedingly gentle.
@@ -6294,10 +6259,8 @@ He is a brave soldier.;He is a courageous warrior.
 I need to wash my clothes.;I must launder mine garments.
 The forest is quiet.;The forest is hushed.
 She is very thoughtful.;She is perpetually thoughtful.
-He is a loyal friend.;He is a steadfast companion.
 I need to check my calendar.;I must consult mine calendar.
 The sky is darkening.;The sky darkeneth.
-She is very supportive.;She is ever supportive.
 He is a reliable guide.;He is a trustworthy guide.
 I need to clean the windows.;I must cleanse the windows.
 The path is narrow.;The path is constricted.
@@ -6316,21 +6279,17 @@ The weather is mild.;The weather is temperate.
 She is very friendly.;She is supremely amiable.
 He is a dedicated student.;He is a diligent pupil.
 I need to charge my watch.;I must charge mine timepiece.
-The lake is serene.;The lake is tranquil.
 She is very attentive.;She is exceedingly attentive.
 He is a reliable friend.;He is a steadfast companion.
 I need to clean the fridge.;I must cleanse the icebox.
 The sky is clear.;The sky is unobstructed.
 She is very punctual.;She is unfailingly punctual.
-He is a brave warrior.;He is a valiant warrior.
 I need to finish my project.;I must complete mine endeavor.
-The forest is dense.;The forest is thick.
 She is very observant.;She is supremely observant.
 He is a talented artist.;He is a gifted artist.
 I need to wash my dishes.;I must cleanse mine dishes.
 The air is dry.;The air is arid.
 She is very inspiring.;She is supremely inspiring.
-He is a skilled craftsman.;He is a masterful artisan.
 I need to write a report.;I must pen a document.
 The night is quiet.;The night is silent.
 She is very dedicated.;She is supremely dedicated.
@@ -6352,7 +6311,6 @@ The weather is stormy.;The weather is tempestuous.
 She is very graceful.;She is supremely graceful.
 He is a skillful driver.;He is an adept driver.
 I need to find my keys.;I must locate mine keys.
-The road is icy.;The path is slippery.
 She is very determined.;She is supremely determined.
 He is a clever strategist.;He is a cunning strategist.
 I need to charge my headphones.;I must charge mine earbuds.
@@ -6364,7 +6322,6 @@ The forest is dark.;The forest is shadowy.
 She is very caring.;She is supremely nurturing.
 He is a brave explorer.;He is a bold adventurer.
 I need to wash my face.;I must cleanse mine visage.
-The night is still.;The night is still.
 She is very thoughtful.;She is supremely considerate.
 He is a skilled pilot.;He is a proficient aviator.
 I need to write an essay.;I must compose an essay.
@@ -6372,7 +6329,6 @@ The weather is cool.;The weather is cool.
 She is very talented.;She is immensely skilled.
 He is a wise judge.;He is a judicious magistrate.
 I need to check my messages.;I must review mine messages.
-The river is calm.;The river is calm.
 She is very intelligent.;She is exceptionally intelligent.
 He is a loyal soldier.;He is a faithful warrior.
 I need to call my parents.;I must contact mine parents.
@@ -6380,7 +6336,6 @@ The sky is cloudy.;The sky is overcast.
 She is very creative.;She is exceptionally creative.
 He is a diligent student.;He is a hardworking scholar.
 I need to fix my watch.;I must repair mine watch.
-The garden is colorful.;The garden is vibrant.
 She is very polite.;She is exceptionally polite.
 He is a talented engineer.;He is a skilled engineer.
 I need to clean the bathroom.;I must scour the lavatory.
@@ -6392,24 +6347,19 @@ The sun is setting.;The sun sinketh.
 She is very cheerful.;She is exceedingly cheerful.
 He is a dedicated friend.;He is a devoted companion.
 I need to organize my papers.;I must arrange mine documents.
-The night is clear.;The night is clear.
 She is very caring.;She is exceedingly nurturing.
 He is a talented singer.;He is a gifted singer.
-I need to finish my chores.;I must complete mine tasks.
 The weather is unpredictable.;The weather is changeable.
 She is very compassionate.;She is exceedingly compassionate.
 He is a skillful surgeon.;He is an adept healer.
 I need to book an appointment.;I must schedule an appointment.
 The forest is mystical.;The forest is enchanting.
-She is very punctual.;She is always prompt.
 He is a knowledgeable teacher.;He is a wise instructor.
 I need to find my backpack.;I must locate mine satchel.
 The road is winding.;The path is meandering.
-She is very articulate.;She is exceedingly articulate.
 He is a diligent farmer.;He is a hardworking tiller.
 I need to pack my suitcase.;I must prepare mine luggage.
 The lake is frozen.;The lake is icebound.
-She is very observant.;She is exceptionally observant.
 He is a skillful athlete.;He is an adept sportsman.
 I need to repair my fence.;I must mend mine barrier.
 The air is refreshing.;The air is invigorating.
@@ -6417,7 +6367,6 @@ She is very generous.;She is exceedingly generous.
 He is a brave sailor.;He is a fearless mariner.
 I need to update my software.;I must refresh mine program.
 The garden is overgrown.;The garden is wild.
-She is very dedicated.;She is supremely dedicated.
 He is a talented sculptor.;He is a gifted carver.
 I need to clean my glasses.;I must polish mine spectacles.
 The sun is bright.;The sun shineth brightly.
@@ -6441,79 +6390,52 @@ She is very intelligent.;She is exceedingly intelligent.
 He is a dedicated musician.;He is a devoted minstrel.
 I need to check my bank account.;I must review mine funds.
 The weather is perfect.;The weather is ideal.
-She is very kind-hearted.;She is supremely kind-hearted.
 He is a reliable advisor.;He is a trustworthy counselor.
 I need to clean the carpet.;I must scrub the rug.
 The river is peaceful.;The river is serene.
-She is very graceful.;She is supremely graceful.
 He is a talented chef.;He is a masterful cook.
 I need to organize my thoughts.;I must collect mine thoughts.
 The night is quiet.;The night is still.
 She is very enthusiastic.;She is supremely enthusiastic.
 He is a wise counselor.;He is a sagacious advisor.
 I need to prepare for the meeting.;I must ready myself for the gathering.
-The sky is blue.;The sky is azure.
-She is very attentive.;She is exceedingly attentive.
 He is a skillful artist.;He is a masterful painter.
 I need to charge my laptop.;I must power mine device.
 The garden is blooming.;The garden is in full bloom.
-She is very observant.;She is supremely observant.
 He is a brave warrior.;He is a valiant fighter.
 I need to write a poem.;I must compose a verse.
-The lake is calm.;The lake is tranquil.
-She is very supportive.;She is supremely supportive.
-He is a talented writer.;He is a gifted scribe.
 I need to wash the car.;I must cleanse the vehicle.
-The road is long.;The path is lengthy.
-She is very compassionate.;She is exceedingly compassionate.
 He is a diligent worker.;He is a dedicated laborer.
-I need to feed the cat.;I must nourish the feline.
 The air is crisp.;The air is refreshing.
-She is very talented.;She is supremely talented.
 He is a wise elder.;He is a venerable sage.
-I need to organize my desk.;I must arrange mine workspace.
 The sky is bright.;The sky is radiant.
 She is very articulate.;She is supremely articulate.
 He is a skilled engineer.;He is a masterful architect.
 I need to find my pen.;I must locate mine quill.
-The garden is lush.;The garden is verdant.
 She is very friendly.;She is exceedingly amicable.
 He is a brave explorer.;He is a daring adventurer.
 I need to wash the dishes.;I must cleanse the crockery.
-The river is wide.;The river is broad.
 She is very attentive.;She is supremely attentive.
 He is a talented dancer.;He is a gifted performer.
 I need to finish my work.;I must complete mine labor.
 The weather is fine.;The weather is fair.
 She is very punctual.;She is exceedingly prompt.
-He is a wise advisor.;He is a sagacious counselor.
 I need to clean the table.;I must wipe the table.
-The night is still.;The night is tranquil.
 She is very gentle.;She is supremely gentle.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to call my friend.;I must summon mine friend.
 The road is steep.;The path is precipitous.
 She is very resourceful.;She is supremely resourceful.
-He is a talented musician.;He is a gifted minstrel.
 I need to finish my painting.;I must complete mine artwork.
 The lake is serene.;The lake is peaceful.
-She is very caring.;She is supremely nurturing.
-He is a wise philosopher.;He is a sagacious thinker.
 I need to charge my device.;I must replenish mine power.
 The garden is vibrant.;The garden is lively.
 She is very supportive.;She is exceedingly supportive.
-He is a diligent student.;He is a hardworking scholar.
 I need to find my shoes.;I must locate mine footwear.
-The sky is clear.;The sky is unobstructed.
 She is very talented.;She is immensely gifted.
 He is a brave knight.;He is a gallant warrior.
-I need to wash my clothes.;I must launder mine garments.
 The weather is unpredictable.;The weather is uncertain.
-She is very kind-hearted.;She is supremely kind-hearted.
 He is a reliable guide.;He is a dependable guide.
 I need to prepare breakfast.;I must cook the morning meal.
 The river is flowing.;The river moveth swiftly.
-She is very intelligent.;She is exceedingly intelligent.
 He is a talented writer.;He is a masterful scribe.
 I need to organize my schedule.;I must arrange mine agenda.
 The night is calm.;The night is serene.
@@ -6521,731 +6443,111 @@ She is very creative.;She is exceedingly inventive.
 He is a wise elder.;He is a learned sage.
 I need to charge my phone.;I must restore mine device.
 The garden is flourishing.;The garden is thriving.
-She is very observant.;She is supremely observant.
 He is a dedicated teacher.;He is a committed tutor.
-I need to clean my room.;I must tidy mine chamber.
 The sky is dark.;The sky is dusky.
 She is very graceful.;She is supremely elegant.
 He is a talented actor.;He is a gifted thespian.
 I need to finish my book.;I must complete mine tome.
 The air is cool.;The air is refreshing.
 She is very articulate.;She is supremely eloquent.
-He is a brave soldier.;He is a courageous warrior.
 I need to find my jacket.;I must locate mine cloak.
 The road is busy.;The path is bustling.
 She is very attentive.;She is exceedingly watchful.
 He is a skilled pilot.;He is an adept aviator.
-I need to wash my face.;I must cleanse mine visage.
 The lake is clear.;The lake is transparent.
 She is very kind-hearted.;She is supremely compassionate.
 He is a wise judge.;He is a discerning magistrate.
 I need to feed my dog.;I must nourish mine hound.
-The garden is beautiful.;The garden is lovely.
 She is very intelligent.;She is supremely knowledgeable.
 He is a talented artist.;He is a gifted painter.
-I need to finish my chores.;I must complete mine tasks.
 The weather is warm.;The weather is mild.
 She is very compassionate.;She is supremely empathetic.
 He is a diligent worker.;He is a hardworking laborer.
 I need to charge my tablet.;I must restore mine device.
-The forest is dense.;The forest is thick.
 She is very supportive.;She is supremely encouraging.
 He is a wise mentor.;He is a sagacious advisor.
 I need to clean the garage.;I must organize the outbuilding.
-The river is calm.;The river is serene.
 She is very talented.;She is supremely skilled.
 He is a brave explorer.;He is a valiant adventurer.
-I need to write a letter.;I must pen a missive.
-The sky is cloudy.;The sky is overcast.
 She is very graceful.;She is exceedingly poised.
 He is a talented musician.;He is a masterful performer.
-I need to wash the car.;I must cleanse the vehicle.
 The lake is placid.;The lake is tranquil.
 She is very kind-hearted.;She is supremely benevolent.
-He is a wise elder.;He is a venerable sage.
 I need to charge my laptop.;I must replenish mine device.
 The garden is blooming.;The garden is flourishing.
 She is very observant.;She is exceedingly perceptive.
-He is a diligent student.;He is a hardworking scholar.
-I need to find my notebook.;I must locate mine journal.
-The night is peaceful.;The night is tranquil.
-She is very creative.;She is supremely inventive.
-He is a talented writer.;He is a gifted scribe.
-I need to wash the dishes.;I must cleanse the crockery.
 The air is fresh.;The air is invigorating.
 She is very supportive.;She is exceedingly encouraging.
-He is a wise philosopher.;He is a sagacious thinker.
 I need to clean the kitchen.;I must scour the galley.
 The river is wide.;The river is expansive.
 She is very kind-hearted.;She is exceedingly benevolent.
 He is a talented artist.;He is a masterful painter.
-I need to charge my phone.;I must restore mine device.
-The sky is bright.;The sky is radiant.
 She is very observant.;She is supremely perceptive.
-He is a brave knight.;He is a gallant warrior.
-I need to finish my project.;I must complete mine endeavor.
-The garden is beautiful.;The garden is lovely.
 She is very intelligent.;She is exceedingly wise.
 He is a dedicated teacher.;He is a committed educator.
 I need to clean the windows.;I must polish the panes.
-The air is crisp.;The air is refreshing.
-She is very creative.;She is supremely inventive.
 He is a wise elder.;He is a sagacious sage.
-I need to wash my clothes.;I must launder mine garments.
-The river is flowing.;The river moveth swiftly.
-She is very supportive.;She is supremely encouraging.
-He is a talented musician.;He is a gifted minstrel.
 I need to update my resume.;I must revise mine curriculum vitae.
 The forest is thick.;The forest is dense.
 She is very articulate.;She is exceedingly eloquent.
 He is a diligent employee.;He is a hardworking worker.
 I need to finish my report.;I must complete mine document.
-The lake is serene.;The lake is peaceful.
-She is very creative.;She is supremely inventive.
-He is a wise counselor.;He is a sagacious advisor.
 I need to call the plumber.;I must summon the plumber.
-The sky is blue.;The sky is azure.
-She is very kind-hearted.;She is supremely compassionate.
 He is a skilled mechanic.;He is an adept mechanic.
-I need to buy groceries.;I must purchase provisions.
-The garden is lush.;The garden is verdant.
 She is very observant.;She is supremely watchful.
 He is a talented painter.;He is a gifted artist.
 I need to wash the clothes.;I must launder the garments.
-The river is calm.;The river is serene.
-She is very supportive.;She is exceedingly encouraging.
-He is a brave warrior.;He is a valiant fighter.
-I need to find my keys.;I must locate mine keys.
-The night is still.;The night is tranquil.
 She is very intelligent.;She is supremely wise.
 He is a skilled builder.;He is a masterful builder.
-I need to charge my phone.;I must recharge mine device.
-The forest is quiet.;The forest is silent.
-She is very graceful.;She is supremely elegant.
 He is a diligent scholar.;He is a hardworking scholar.
-I need to organize my files.;I must arrange mine documents.
 The sky is overcast.;The sky is cloudy.
 She is very compassionate.;She is exceedingly empathetic.
 He is a wise teacher.;He is a sagacious instructor.
 I need to clean the house.;I must tidy the house.
-The river is wide.;The river is broad.
-She is very articulate.;She is supremely eloquent.
-He is a brave sailor.;He is a fearless mariner.
-I need to finish my homework.;I must complete mine assignments.
-The garden is blooming.;The garden is flourishing.
-She is very attentive.;She is exceedingly attentive.
-He is a talented chef.;He is a masterful cook.
 I need to charge my laptop.;I must recharge mine device.
-The night is quiet.;The night is still.
-She is very creative.;She is supremely inventive.
-He is a wise philosopher.;He is a sagacious thinker.
-I need to wash my hands.;I must cleanse mine hands.
-The sky is clear.;The sky is unobstructed.
-She is very supportive.;She is supremely encouraging.
-He is a diligent worker.;He is a hardworking laborer.
-I need to find my glasses.;I must locate mine spectacles.
-The river is calm.;The river is serene.
-She is very kind-hearted.;She is supremely benevolent.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to clean my room.;I must tidy mine chamber.
-The garden is beautiful.;The garden is lovely.
-She is very intelligent.;She is exceedingly wise.
-He is a brave knight.;He is a gallant warrior.
 I need to charge my tablet.;I must replenish mine device.
-The sky is blue.;The sky is azure.
-She is very articulate.;She is supremely eloquent.
-He is a talented musician.;He is a gifted minstrel.
-I need to organize my desk.;I must arrange mine workspace.
-The river is wide.;The river is expansive.
-She is very supportive.;She is supremely encouraging.
-He is a wise elder.;He is a venerable sage.
-I need to find my notebook.;I must locate mine journal.
-The garden is flourishing.;The garden is thriving.
-She is very observant.;She is supremely watchful.
-He is a diligent student.;He is a hardworking scholar.
-I need to clean the windows.;I must polish the panes.
-The sky is clear.;The sky is unobscured.
-She is very compassionate.;She is supremely empathetic.
-He is a skilled engineer.;He is a masterful architect.
-I need to charge my phone.;I must restore mine device.
-The river is flowing.;The river moveth swiftly.
-She is very kind-hearted.;She is supremely benevolent.
-He is a wise advisor.;He is a sagacious counselor.
-I need to wash the dishes.;I must cleanse the crockery.
-The garden is blooming.;The garden is flourishing.
-She is very graceful.;She is supremely elegant.
-He is a brave warrior.;He is a valiant fighter.
-I need to find my shoes.;I must locate mine footwear.
-The night is peaceful.;The night is tranquil.
-She is very intelligent.;She is supremely knowledgeable.
-He is a talented artist.;He is a gifted painter.
-I need to charge my laptop.;I must replenish mine device.
-The sky is cloudy.;The sky is overcast.
-She is very articulate.;She is supremely eloquent.
 He is a diligent scholar.;He is a hardworking student.
-I need to organize my closet.;I must arrange mine wardrobe.
-The river is calm.;The river is serene.
-She is very supportive.;She is supremely encouraging.
-He is a wise mentor.;He is a sagacious advisor.
-I need to find my jacket.;I must locate mine cloak.
-The garden is lush.;The garden is verdant.
-She is very observant.;She is supremely perceptive.
-He is a brave knight.;He is a gallant warrior.
-I need to clean the carpet.;I must scrub the rug.
-The sky is blue.;The sky is azure.
-She is very compassionate.;She is exceedingly empathetic.
-He is a talented writer.;He is a gifted scribe.
-I need to charge my tablet.;I must restore mine device.
-The river is wide.;The river is expansive.
-She is very kind-hearted.;She is supremely benevolent.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to wash my clothes.;I must launder mine garments.
-The garden is beautiful.;The garden is lovely.
-She is very intelligent.;She is exceedingly wise.
-He is a brave explorer.;He is a valiant adventurer.
-I need to find my keys.;I must locate mine keys.
-The sky is clear.;The sky is unobstructed.
-She is very articulate.;She is supremely eloquent.
-He is a diligent worker.;He is a hardworking laborer.
-I need to organize my schedule.;I must arrange mine agenda.
-The river is flowing.;The river moveth swiftly.
-She is very supportive.;She is supremely encouraging.
-He is a wise elder.;He is a venerable sage.
-I need to clean the windows.;I must polish the panes.
-The garden is blooming.;The garden is flourishing.
-She is very observant.;She is supremely perceptive.
-He is a skilled engineer.;He is a masterful architect.
-I need to charge my phone.;I must restore mine device.
-The sky is cloudy.;The sky is overcast.
-She is very compassionate.;She is exceedingly empathetic.
-He is a talented musician.;He is a gifted minstrel.
-I need to organize my desk.;I must arrange mine workspace.
-The river is calm.;The river is serene.
-She is very kind-hearted.;She is supremely benevolent.
-He is a brave warrior.;He is a valiant fighter.
-I need to clean my room.;I must tidy mine chamber.
-The garden is lush.;The garden is verdant.
-She is very graceful.;She is supremely elegant.
-He is a diligent student.;He is a hardworking scholar.
-I need to find my glasses.;I must locate mine spectacles.
-The sky is blue.;The sky is azure.
-She is very supportive.;She is supremely encouraging.
-He is a wise counselor.;He is a sagacious advisor.
-I need to charge my laptop.;I must replenish mine device.
-The river is wide.;The river is expansive.
-She is very intelligent.;She is exceedingly wise.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to wash my hands.;I must cleanse mine hands.
-The garden is beautiful.;The garden is lovely.
-She is very articulate.;She is supremely eloquent.
-He is a brave knight.;He is a gallant warrior.
-I need to find my notebook.;I must locate mine journal.
-The sky is clear.;The sky is unobstructed.
-She is very compassionate.;She is exceedingly empathetic.
-He is a talented artist.;He is a gifted painter.
 I need to clean the kitchen.;I must tidy the kitchen.
-The river is flowing.;The river moveth swiftly.
-She is very kind-hearted.;She is supremely benevolent.
-He is a skilled engineer.;He is a masterful architect.
-I need to charge my tablet.;I must replenish mine device.
-The garden is blooming.;The garden is flourishing.
-She is very supportive.;She is supremely encouraging.
-He is a wise elder.;He is a venerable sage.
-I need to find my shoes.;I must locate mine footwear.
-The sky is cloudy.;The sky is overcast.
-She is very articulate.;She is supremely eloquent.
-He is a diligent scholar.;He is a hardworking scholar.
-I need to wash the dishes.;I must cleanse the crockery.
-The river is calm.;The river is serene.
-She is very observant.;She is supremely perceptive.
-He is a talented writer.;He is a gifted scribe.
-I need to organize my closet.;I must arrange mine wardrobe.
-The garden is lush.;The garden is verdant.
-She is very graceful.;She is supremely elegant.
-He is a brave warrior.;He is a valiant fighter.
-I need to charge my phone.;I must restore mine device.
-The sky is blue.;The sky is azure.
-She is very compassionate.;She is exceedingly empathetic.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to clean my room.;I must tidy mine chamber.
-The river is wide.;The river is expansive.
-She is very supportive.;She is supremely encouraging.
-He is a wise mentor.;He is a sagacious advisor.
-I need to find my jacket.;I must locate mine cloak.
-The garden is beautiful.;The garden is lovely.
-She is very intelligent.;She is exceedingly wise.
-He is a talented musician.;He is a gifted minstrel.
-I need to charge my laptop.;I must replenish mine device.
-The sky is clear.;The sky is unobstructed.
-She is very kind-hearted.;She is supremely benevolent.
-He is a diligent worker.;He is a hardworking laborer.
-I need to clean the windows.;I must polish the panes.
-The river is flowing.;The river moveth swiftly.
-She is very articulate.;She is supremely eloquent.
-He is a brave knight.;He is a gallant warrior.
-I need to organize my schedule.;I must arrange mine agenda.
-The garden is blooming.;The garden is flourishing.
-She is very observant.;She is supremely perceptive.
-He is a skilled engineer.;He is a masterful architect.
-I need to charge my tablet.;I must replenish mine device.
-The sky is cloudy.;The sky is overcast.
-She is very compassionate.;She is exceedingly empathetic.
-He is a talented artist.;He is a gifted painter.
-I need to find my keys.;I must locate mine keys.
-The river is calm.;The river is serene.
-She is very supportive.;She is supremely encouraging.
-He is a wise elder.;He is a venerable sage.
-I need to clean the carpet.;I must scrub the rug.
-The garden is lush.;The garden is verdant.
-She is very graceful.;She is supremely elegant.
-He is a diligent student.;He is a hardworking scholar.
-I need to charge my phone.;I must restore mine device.
-The sky is blue.;The sky is azure.
-She is very articulate.;She is supremely eloquent.
-He is a brave warrior.;He is a valiant fighter.
-I need to organize my desk.;I must arrange mine workspace.
-The river is wide.;The river is expansive.
-She is very intelligent.;She is exceedingly wise.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to wash my clothes.;I must launder mine garments.
-The garden is beautiful.;The garden is lovely.
-She is very supportive.;She is supremely encouraging.
-He is a wise mentor.;He is a sagacious advisor.
-I need to find my notebook.;I must locate mine journal.
-The sky is clear.;The sky is unobstructed.
-She is very kind-hearted.;She is supremely benevolent.
-He is a talented musician.;He is a gifted minstrel.
-I need to charge my laptop.;I must replenish mine device.
-The river is flowing.;The river moveth swiftly.
-She is very compassionate.;She is exceedingly empathetic.
-He is a diligent worker.;He is a hardworking laborer.
-I need to clean the kitchen.;I must tidy the kitchen.
-The garden is blooming.;The garden is flourishing.
-She is very articulate.;She is supremely eloquent.
-He is a brave knight.;He is a gallant warrior.
-I need to wash the dishes.;I must cleanse the crockery.
-The sky is blue.;The sky is azure.
-She is very supportive.;She is supremely encouraging.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to clean my room.;I must tidy mine chamber.
-The river is calm.;The river is serene.
-She is very observant.;She is supremely perceptive.
-He is a wise elder.;He is a venerable sage.
-I need to charge my phone.;I must restore mine device.
-The garden is lush.;The garden is verdant.
-She is very compassionate.;She is exceedingly empathetic.
-He is a talented artist.;He is a gifted painter.
-I need to find my shoes.;I must locate mine footwear.
-The sky is clear.;The sky is unobstructed.
-She is very supportive.;She is supremely encouraging.
-He is a brave warrior.;He is a valiant fighter.
-I need to organize my schedule.;I must arrange mine agenda.
-The river is wide.;The river is expansive.
-She is very intelligent.;She is exceedingly wise.
-He is a skilled engineer.;He is a masterful architect.
-I need to wash my hands.;I must cleanse mine hands.
-The garden is beautiful.;The garden is lovely.
-She is very articulate.;She is supremely eloquent.
-He is a diligent scholar.;He is a hardworking scholar.
-I need to charge my tablet.;I must replenish mine device.
-The sky is cloudy.;The sky is overcast.
-She is very compassionate.;She is exceedingly empathetic.
-He is a talented writer.;He is a gifted scribe.
-I need to clean the windows.;I must polish the panes.
-The river is flowing.;The river moveth swiftly.
-She is very kind-hearted.;She is supremely benevolent.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to charge my phone.;I must restore mine device.
-The garden is blooming.;The garden is flourishing.
-She is very supportive.;She is supremely encouraging.
-He is a wise elder.;He is a venerable sage.
-I need to find my jacket.;I must locate mine cloak.
-The sky is clear.;The sky is unobstructed.
-She is very observant.;She is supremely perceptive.
-He is a brave knight.;He is a gallant warrior.
-I need to clean my room.;I must tidy mine chamber.
-The river is wide.;The river is expansive.
-She is very intelligent.;She is exceedingly wise.
-He is a talented artist.;He is a gifted painter.
-I need to organize my desk.;I must arrange mine workspace.
-The garden is lush.;The garden is verdant.
-She is very articulate.;She is supremely eloquent.
-He is a diligent worker.;He is a hardworking laborer.
-I need to wash the dishes.;I must cleanse the crockery.
-The sky is blue.;The sky is azure.
-She is very supportive.;She is supremely encouraging.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to charge my laptop.;I must replenish mine device.
-The river is calm.;The river is serene.
-She is very compassionate.;She is exceedingly empathetic.
-He is a wise mentor.;He is a sagacious advisor.
-I need to clean the kitchen.;I must tidy the kitchen.
-The garden is beautiful.;The garden is lovely.
-She is very intelligent.;She is exceedingly wise.
-He is a talented musician.;He is a gifted minstrel.
-I need to organize my closet.;I must arrange mine wardrobe.
-The sky is clear.;The sky is unobstructed.
-She is very observant.;She is supremely perceptive.
 I need to update my software.;I must update mine software.
-The forest is dense.;The forest is thick.
-She is very attentive.;She is exceedingly attentive.
 He is a skilled navigator.;He is an adept navigator.
 I need to finish my assignment.;I must complete mine task.
 The lake is tranquil.;The lake is calm.
 She is very creative.;She is supremely creative.
-He is a wise mentor.;He is a sagacious guide.
-I need to call my friend.;I must summon mine friend.
-The sky is cloudy.;The sky is overcast.
 She is very kind-hearted.;She is exceedingly kind-hearted.
 He is a talented painter.;He is a gifted painter.
 I need to buy some food.;I must procure some sustenance.
 The garden is verdant.;The garden is lush.
-She is very observant.;She is supremely observant.
 He is a diligent worker.;He is a hardworking worker.
 I need to wash the laundry.;I must cleanse the garments.
-The river is calm.;The river is serene.
-She is very supportive.;She is supremely supportive.
-He is a brave warrior.;He is a valiant warrior.
 I need to locate my keys.;I must find mine keys.
-The night is peaceful.;The night is tranquil.
-She is very intelligent.;She is exceedingly intelligent.
-He is a skilled builder.;He is a masterful builder.
 I need to charge my device.;I must power mine device.
-The forest is quiet.;The forest is silent.
-She is very graceful.;She is supremely graceful.
 He is a diligent scholar.;He is a dedicated student.
-I need to organize my files.;I must arrange mine documents.
-The sky is clear.;The sky is unobscured.
-She is very compassionate.;She is exceedingly compassionate.
 He is a wise teacher.;He is a sagacious teacher.
 I need to clean the room.;I must tidy the chamber.
-The river is wide.;The river is broad.
-She is very articulate.;She is exceedingly eloquent.
 He is a brave sailor.;He is a valiant sailor.
 I need to finish my tasks.;I must complete mine tasks.
-The garden is blooming.;The garden is flourishing.
-She is very attentive.;She is supremely attentive.
 He is a talented chef.;He is a gifted chef.
-I need to charge my laptop.;I must power mine device.
-The night is still.;The night is tranquil.
-She is very creative.;She is supremely inventive.
-He is a wise philosopher.;He is a sagacious thinker.
-I need to wash my hands.;I must cleanse mine hands.
-The sky is blue.;The sky is azure.
-She is very supportive.;She is supremely supportive.
-He is a diligent worker.;He is a hardworking laborer.
 I need to locate my glasses.;I must find mine spectacles.
-The river is calm.;The river is serene.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to clean my room.;I must tidy mine chamber.
-The garden is beautiful.;The garden is lovely.
-She is very intelligent.;She is exceedingly intelligent.
-He is a brave knight.;He is a valiant knight.
 I need to charge my tablet.;I must power mine device.
-The sky is blue.;The sky is azure.
-She is very articulate.;She is exceedingly eloquent.
 He is a talented musician.;He is a gifted musician.
-I need to organize my desk.;I must arrange mine desk.
-The river is wide.;The river is expansive.
-She is very supportive.;She is supremely supportive.
-He is a wise elder.;He is a venerable elder.
 I need to locate my notebook.;I must find mine journal.
-The garden is flourishing.;The garden is thriving.
-She is very observant.;She is supremely observant.
 He is a diligent student.;He is a dedicated scholar.
-I need to clean the windows.;I must polish the panes.
-The sky is clear.;The sky is unobstructed.
-She is very compassionate.;She is exceedingly compassionate.
 He is a skilled engineer.;He is a masterful engineer.
 I need to charge my phone.;I must power mine phone.
 The river is flowing.;The river floweth swiftly.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a wise advisor.;He is a sagacious counselor.
 I need to wash the dishes.;I must cleanse the dishes.
-The garden is blooming.;The garden is flourishing.
-She is very graceful.;She is supremely graceful.
-He is a brave warrior.;He is a valiant fighter.
 I need to locate my shoes.;I must find mine shoes.
-The night is peaceful.;The night is tranquil.
-She is very intelligent.;She is exceedingly intelligent.
-He is a talented artist.;He is a gifted artist.
-I need to charge my laptop.;I must power mine device.
-The sky is cloudy.;The sky is overcast.
-She is very articulate.;She is exceedingly eloquent.
-He is a diligent scholar.;He is a dedicated student.
 I need to organize my closet.;I must arrange mine closet.
-The river is calm.;The river is serene.
-She is very supportive.;She is supremely supportive.
 He is a wise mentor.;He is a sagacious mentor.
 I need to locate my jacket.;I must find mine cloak.
-The garden is lush.;The garden is verdant.
-She is very observant.;She is supremely observant.
-He is a brave knight.;He is a valiant knight.
 I need to clean the carpet.;I must scrub the carpet.
-The sky is blue.;The sky is azure.
-She is very compassionate.;She is exceedingly compassionate.
 He is a talented writer.;He is a gifted writer.
 I need to charge my tablet.;I must power mine tablet.
-The river is wide.;The river is expansive.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to wash my clothes.;I must launder mine garments.
-The garden is beautiful.;The garden is lovely.
-She is very intelligent.;She is exceedingly intelligent.
 He is a brave explorer.;He is a valiant explorer.
-I need to locate my keys.;I must find mine keys.
-The sky is clear.;The sky is unobstructed.
-She is very articulate.;She is exceedingly eloquent.
-He is a diligent worker.;He is a hardworking laborer.
 I need to organize my schedule.;I must arrange mine schedule.
-The river is flowing.;The river floweth swiftly.
-She is very supportive.;She is supremely supportive.
-He is a wise elder.;He is a venerable elder.
 I need to clean the windows.;I must polish the windows.
-The garden is blooming.;The garden is flourishing.
-She is very observant.;She is supremely observant.
-He is a skilled engineer.;He is a masterful engineer.
-I need to charge my phone.;I must power mine phone.
-The sky is cloudy.;The sky is overcast.
-She is very compassionate.;She is exceedingly compassionate.
-He is a talented musician.;He is a gifted musician.
-I need to organize my desk.;I must arrange mine desk.
-The river is calm.;The river is serene.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a brave warrior.;He is a valiant warrior.
 I need to clean my room.;I must tidy mine room.
-The garden is lush.;The garden is verdant.
-She is very graceful.;She is supremely graceful.
 He is a diligent student.;He is a dedicated student.
-I need to locate my glasses.;I must find mine spectacles.
-The sky is blue.;The sky is azure.
-She is very supportive.;She is supremely supportive.
 He is a wise counselor.;He is a sagacious counselor.
 I need to charge my laptop.;I must power mine laptop.
-The river is wide.;The river is expansive.
-She is very intelligent.;She is exceedingly intelligent.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to wash my hands.;I must cleanse mine hands.
-The garden is beautiful.;The garden is lovely.
-She is very articulate.;She is exceedingly eloquent.
-He is a brave knight.;He is a valiant knight.
-I need to locate my notebook.;I must find mine journal.
-The sky is clear.;The sky is unobstructed.
-She is very compassionate.;She is exceedingly compassionate.
-He is a talented artist.;He is a gifted artist.
-I need to clean the kitchen.;I must tidy the kitchen.
-The river is flowing.;The river floweth swiftly.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a skilled engineer.;He is a masterful engineer.
-I need to charge my tablet.;I must power mine tablet.
-The garden is blooming.;The garden is flourishing.
-She is very supportive.;She is supremely supportive.
-He is a wise elder.;He is a venerable elder.
-I need to locate my shoes.;I must find mine shoes.
-The sky is cloudy.;The sky is overcast.
-She is very articulate.;She is exceedingly eloquent.
 He is a diligent scholar.;He is a dedicated scholar.
-I need to wash the dishes.;I must cleanse the dishes.
-The river is calm.;The river is serene.
-She is very observant.;She is supremely observant.
-He is a talented writer.;He is a gifted writer.
-I need to organize my closet.;I must arrange mine closet.
-The garden is lush.;The garden is verdant.
-She is very graceful.;She is supremely graceful.
-He is a brave warrior.;He is a valiant fighter.
-I need to charge my phone.;I must power mine phone.
-The sky is blue.;The sky is azure.
-She is very compassionate.;She is exceedingly compassionate.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to clean my room.;I must tidy mine room.
-The river is wide.;The river is expansive.
-She is very supportive.;She is supremely supportive.
-He is a wise mentor.;He is a sagacious mentor.
-I need to locate my jacket.;I must find mine cloak.
-The garden is beautiful.;The garden is lovely.
-She is very intelligent.;She is exceedingly intelligent.
-He is a talented musician.;He is a gifted musician.
-I need to charge my laptop.;I must power mine laptop.
-The sky is clear.;The sky is unobstructed.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a diligent worker.;He is a hardworking worker.
-I need to clean the windows.;I must polish the windows.
-The river is flowing.;The river floweth swiftly.
-She is very articulate.;She is exceedingly eloquent.
-He is a brave knight.;He is a valiant knight.
-I need to organize my schedule.;I must arrange mine schedule.
-The garden is blooming.;The garden is flourishing.
-She is very observant.;She is supremely observant.
-He is a skilled engineer.;He is a masterful engineer.
-I need to charge my tablet.;I must power mine tablet.
-The sky is cloudy.;The sky is overcast.
-She is very compassionate.;She is exceedingly compassionate.
-He is a talented artist.;He is a gifted artist.
-I need to locate my keys.;I must find mine keys.
-The river is calm.;The river is serene.
-She is very supportive.;She is supremely supportive.
-He is a wise elder.;He is a venerable elder.
-I need to clean the carpet.;I must scrub the carpet.
-The garden is lush.;The garden is verdant.
-She is very graceful.;She is supremely graceful.
-He is a diligent student.;He is a dedicated scholar.
-I need to charge my phone.;I must power mine phone.
-The sky is blue.;The sky is azure.
-She is very articulate.;She is exceedingly eloquent.
-He is a brave warrior.;He is a valiant fighter.
-I need to organize my desk.;I must arrange mine desk.
-The river is wide.;The river is expansive.
-She is very intelligent.;She is exceedingly intelligent.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to wash my clothes.;I must launder mine garments.
-The garden is beautiful.;The garden is lovely.
-She is very supportive.;She is supremely supportive.
-He is a wise mentor.;He is a sagacious mentor.
-I need to locate my notebook.;I must find mine journal.
-The sky is clear.;The sky is unobstructed.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a talented musician.;He is a gifted musician.
-I need to charge my laptop.;I must power mine laptop.
-The river is flowing.;The river floweth swiftly.
-She is very compassionate.;She is exceedingly compassionate.
-He is a diligent worker.;He is a hardworking worker.
-I need to clean the kitchen.;I must tidy the kitchen.
-The garden is blooming.;The garden is flourishing.
-She is very articulate.;She is exceedingly eloquent.
-He is a brave knight.;He is a valiant knight.
-I need to wash the dishes.;I must cleanse the dishes.
-The sky is blue.;The sky is azure.
-She is very supportive.;She is supremely supportive.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to charge my laptop.;I must power mine laptop.
-The river is calm.;The river is serene.
-She is very compassionate.;She is exceedingly compassionate.
-He is a wise mentor.;He is a sagacious mentor.
-I need to clean the kitchen.;I must tidy the kitchen.
-The garden is beautiful.;The garden is lovely.
-She is very intelligent.;She is exceedingly intelligent.
-He is a talented musician.;He is a gifted musician.
-I need to organize my closet.;I must arrange mine closet.
-The sky is clear.;The sky is unobstructed.
-She is very observant.;She is supremely observant.
-He is a brave warrior.;He is a valiant fighter.
-I need to charge my tablet.;I must power mine tablet.
-The river is wide.;The river is expansive.
-She is very supportive.;She is supremely supportive.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to wash my hands.;I must cleanse mine hands.
-The garden is blooming.;The garden is flourishing.
-She is very articulate.;She is exceedingly eloquent.
-He is a diligent scholar.;He is a dedicated scholar.
-I need to locate my notebook.;I must find mine journal.
-The sky is cloudy.;The sky is overcast.
-She is very compassionate.;She is exceedingly compassionate.
-He is a talented artist.;He is a gifted artist.
-I need to clean the windows.;I must polish the windows.
-The river is flowing.;The river floweth swiftly.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to charge my phone.;I must power mine phone.
-The garden is lush.;The garden is verdant.
-She is very supportive.;She is supremely supportive.
-He is a wise elder.;He is a venerable elder.
-I need to locate my jacket.;I must find mine cloak.
-The sky is clear.;The sky is unobstructed.
-She is very observant.;She is supremely observant.
-He is a brave knight.;He is a valiant knight.
-I need to clean my room.;I must tidy mine room.
-The river is calm.;The river is serene.
-She is very intelligent.;She is exceedingly intelligent.
-He is a talented artist.;He is a gifted artist.
-I need to organize my desk.;I must arrange mine desk.
-The garden is beautiful.;The garden is lovely.
-She is very supportive.;She is supremely supportive.
-He is a wise mentor.;He is a sagacious mentor.
-I need to locate my keys.;I must find mine keys.
-The sky is blue.;The sky is azure.
-She is very compassionate.;She is exceedingly compassionate.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to wash my clothes.;I must launder mine garments.
-The river is wide.;The river is expansive.
-She is very supportive.;She is supremely supportive.
-He is a wise elder.;He is a venerable elder.
-I need to locate my notebook.;I must find mine journal.
-The garden is blooming.;The garden is flourishing.
-She is very articulate.;She is exceedingly eloquent.
-He is a diligent scholar.;He is a dedicated scholar.
-I need to charge my phone.;I must power mine phone.
-The sky is clear.;The sky is unobstructed.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a talented musician.;He is a gifted musician.
-I need to clean the kitchen.;I must tidy the kitchen.
-The river is flowing.;The river floweth swiftly.
-She is very compassionate.;She is exceedingly compassionate.
-He is a diligent worker.;He is a hardworking worker.
-I need to charge my laptop.;I must power mine laptop.
-The garden is lush.;The garden is verdant.
-She is very supportive.;She is supremely supportive.
-He is a brave knight.;He is a valiant knight.
-I need to clean the windows.;I must polish the windows.
-The sky is blue.;The sky is azure.
-She is very articulate.;She is exceedingly eloquent.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to organize my desk.;I must arrange mine desk.
-The river is calm.;The river is serene.
-She is very compassionate.;She is exceedingly compassionate.
-He is a wise elder.;He is a venerable elder.
-I need to charge my phone.;I must power mine phone.
-The garden is blooming.;The garden is flourishing.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a talented artist.;He is a gifted artist.
-I need to clean my room.;I must tidy mine room.
-The sky is clear.;The sky is unobstructed.
-She is very supportive.;She is supremely supportive.
-He is a brave warrior.;He is a valiant warrior.
-I need to locate my shoes.;I must find mine shoes.
-The river is wide.;The river is expansive.
-She is very articulate.;She is exceedingly eloquent.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to charge my laptop.;I must power mine laptop.
-The garden is beautiful.;The garden is lovely.
-She is very intelligent.;She is exceedingly intelligent.
-He is a diligent worker.;He is a hardworking worker.
-I need to organize my schedule.;I must arrange mine schedule.
-The sky is blue.;The sky is azure.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a wise elder.;He is a venerable elder.
-I need to locate my keys.;I must find mine keys.
-The river is calm.;The river is serene.
-She is very supportive.;She is supremely supportive.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to wash my clothes.;I must launder mine garments.
-The garden is blooming.;The garden is flourishing.
-She is very compassionate.;She is exceedingly compassionate.
-He is a talented artist.;He is a gifted artist.
-I need to charge my tablet.;I must power mine tablet.
-The sky is clear.;The sky is unobstructed.
-She is very articulate.;She is exceedingly eloquent.
-He is a brave knight.;He is a valiant knight.
-I need to clean the kitchen.;I must tidy the kitchen.
-The river is flowing.;The river floweth swiftly.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to charge my phone.;I must power mine phone.
-The garden is lush.;The garden is verdant.
-She is very supportive.;She is supremely supportive.
-He is a wise elder.;He is a venerable elder.
-I need to locate my jacket.;I must find mine cloak.
-The sky is blue.;The sky is azure.
-She is very compassionate.;She is exceedingly compassionate.
-He is a talented writer.;He is a gifted writer.
-I need to clean the windows.;I must polish the windows.
-The river is calm.;The river is serene.
-She is very kind-hearted.;She is exceedingly kind-hearted.
-He is a skilled craftsman.;He is a masterful artisan.
-I need to charge my phone.;I must power mine phone.
-The garden is blooming.;The garden is flourishing.
-She is very supportive.;She is supremely supportive.
-He is a wise elder.;He is a venerable elder.
-I need to locate my shoes.;I must find mine shoes.
-The sky is clear.;The sky is unobstructed.
-She is very articulate.;She is exceedingly eloquent.
